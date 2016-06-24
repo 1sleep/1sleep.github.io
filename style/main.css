@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	padding-bottom: 50px;
+}
+.carousel{
+	height: 500px;
+	background-color: #000;
+}
+.carousel .item{
+	height: 500px;
+	background-color: #000;
+}
+.carousel img{
+	width: 100%;
+}
+.carousel-caption{
+	margin-bottom: 20px;
+	font-size: 20px;
+	line-height: 1.8;
+}
+.container{
+	text-align: center;
+}
+.container img{
+	width: 300px;
+	margin: 40px 0;
+}
+.line{
+	margin-bottom: 40px;
+}
